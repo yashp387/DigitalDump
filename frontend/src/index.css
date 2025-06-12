@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@import "swiper/css/pagination";
+@import "swiper/css/scrollbar";
+@import "swiper/css";
+@import "swiper/css/effect-coverflow";
+@import "swiper/css/autoplay"; 
+@import '@fortawesome/fontawesome-free/css/all.min.css';
